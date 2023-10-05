@@ -1,0 +1,10 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "mysql",
+  "password": "Nes&1999az",
+  "database": "tbsbdd",
+  "entities": ["dist/**/*.entity{.ts,.js}"],
+  "synchronize": true
+}
